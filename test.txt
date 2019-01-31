@@ -1,4 +1,4 @@
 This is my even newer feature.
-
+This is a different second line.
 
 This is more stuff. I'm changing stuff.  Wow. 
